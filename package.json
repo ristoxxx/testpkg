@@ -1,0 +1,22 @@
+{
+  "name": "@ristoxxx/testpkg",
+  "version": "1.0.0",
+  "description": "testi",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ristoxxx/testpkg.git"
+  },
+  "keywords": [
+    "testi"
+  ],
+  "author": "ristoxxx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ristoxxx/testpkg/issues"
+  },
+  "homepage": "https://github.com/ristoxxx/testpkg#readme"
+}
